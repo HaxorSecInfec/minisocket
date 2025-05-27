@@ -224,7 +224,7 @@ WantedBy=multi-user.target
 ### ❗ Connection Timeout
 
 **Cause**: Firewall, wrong port/IP, server down  
-**Solution**: Verify server, check firewall, try ports `443`, `80`, `53`
+**Solution**: Verify server, check firewall, try ports `443`, `80`, `22`, `9000`
 
 ### ❌ Authentication Failed
 
